@@ -12,8 +12,7 @@ that could possibly be additional BBSes, programs, and features. The real world 
 # Game Premise
 You are a hacker wannabe script kitty from 1991. It is a whole new world of networked computers with terrifying levels of
 security (ie: lack there of). With few laws on the books in 1991 to restrict the player, and player's complete disregard of
-existing laws anyway, it is the wild west and hayday of hacking. Although, also implemented is the modern day version of cryptocurrency,
-the ByteCoin. This is the fictional currency of the early 90's hacker.
+existing laws anyway, it is the wild west and hayday of hacking. Although, also implemented is the modern day version of cryptocurrency, the ByteCoin. This is the fictional currency of the early 90's hacker.
 
 You will start out with a basic computer, slow modem, and old viruses found on a floppy disk from your older brother. You will scan phone numbers
 using a wardialer to discover BBSes and systems to hack into. As you progress, you will learn new skills, obtain better
@@ -35,5 +34,16 @@ support. I am working on making this compatible with more platforms, such as Lin
 # To Do (near term)
 * Save user progress
 * Actually use the database
-* BBSes
+* First BBSes
 * Wardialer
+
+# To Do (Non exhaustive)
+* Create a massive database of BBS phone numbers that the wardialer will find
+* Create all the many BBS names, title screens, and other related things to make them somewhat unique
+* Create a list of levels, viruses, mining levels, modem speeds computer resource levels, and other aspects for incremental game play
+* Create a list of all the unix programs you can download to increase your capability
+* Create a list of things you can buy, and perhaps a common market place like some hacker games had
+* Create some sort of overall game play that keeps the game from becoming a shell version of mafia wars
+* Allow plugins in some fashion, either snips of python code or something else
+* Needs a twist or two, surprises, and other gameplay aspects
+* Some sort of epic twist
